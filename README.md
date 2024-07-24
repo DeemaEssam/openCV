@@ -1,7 +1,5 @@
 # openCV
 
-**Steps**
-
 ***1. install flask***
 
 ```ruby
@@ -16,6 +14,6 @@ pip install flask opencv-python
 
 <img width="531" alt="arm7" src="https://github.com/user-attachments/assets/3fb3f6c1-8740-4935-b969-64918f30c2e8">
 
-**Output**
+***5. Output***
 
 <img width="531" alt="arm7" src="https://github.com/user-attachments/assets/2641dae6-bd4e-4daf-8f84-99fbfa386eb5">
