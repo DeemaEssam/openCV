@@ -13,6 +13,4 @@ pip install flask opencv-python
 ![Screenshot 2024-07-25 020346](https://github.com/user-attachments/assets/3fb3f6c1-8740-4935-b969-64918f30c2e8)
 
 ##Outpu
-![image](https://github.com/user-attachments/assets/3acc7b6e-c342-4828-ae17-2cfec353a35f)
-
-
+![Screenshot 2024-07-25 020848](https://github.com/user-attachments/assets/2641dae6-bd4e-4daf-8f84-99fbfa386eb5)
