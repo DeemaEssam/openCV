@@ -16,4 +16,6 @@ pip install flask opencv-python
 
 <!-- ***5. Output***
 
+![opencv](https://github.com/user-attachments/assets/6fdbbd86-023b-4468-a6ae-ddac2cc4f394)
+
 <img width="531" alt="arm7" src="https://github.com/user-attachments/assets/2641dae6-bd4e-4daf-8f84-99fbfa386eb5" -->
