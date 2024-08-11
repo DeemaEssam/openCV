@@ -6,7 +6,7 @@
 pip install flask opencv-python
 ```
 
-<img width="531" alt="arm7" src="https://github.com/user-attachments/assets/1c0df804-222e-4a78-a4ec-da7c3381806f">
+<img width="731" alt="arm7" src="https://github.com/user-attachments/assets/1c0df804-222e-4a78-a4ec-da7c3381806f">
 
 ***3. write the python code, that detect the face and Draw rectangles around faces***
 
